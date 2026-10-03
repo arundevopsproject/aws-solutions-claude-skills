@@ -1,6 +1,6 @@
 <div align="center">
 
-# AWS Solution Skills
+# AWS Solution Claude Skills
 
 **Multi-tool AI Skills for AWS solution patterns.**
 
